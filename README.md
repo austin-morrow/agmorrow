@@ -1,4 +1,5 @@
-Hello, I am Austin Morrow. I am a full stack developer based in Denver, CO. I have front-end development skills with HTML5, CSS3, and JavaScript. I am currently working on learning and enhancing my skills in back-end development with MySQL and MongoDB. I love design! It excites me to see all the building blocks creating an application from the ground up. Let me know if you would like to connect! I can't wait to continue building new projects and meeting new people!
+Hello, I am Austin Morrow. I am a full stack developer based in Denver, CO. Coming from a non-profit background, I love building engaging and user-friendly websites. I recently earned a certificate in full stack development from the University of Denver Coding Bootcamp. I am a resourceful problem-solver and am passionate about develping applications with accessibilty in mind. Let's connect!
+
 
 <!---
 agmorrow/agmorrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
