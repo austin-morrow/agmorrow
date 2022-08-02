@@ -3,13 +3,13 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/agmorrow/">
+  <a href="https://www.linkedin.com/in/agmorrow/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://austinmorrow.me/">
+  <a href="https://austinmorrow.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://twitter.com/agmorrow_">
+  <a href="https://twitter.com/agmorrow_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
