@@ -3,7 +3,6 @@
 </div>
 
 
-
 ### About Me:
 
 - :computer: I am a Full Stack Web Developer from Denver, CO.
