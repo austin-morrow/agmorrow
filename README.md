@@ -23,13 +23,9 @@ Hi there. :wave:
 
 - :computer: I am a Full Stack Web Developer from Denver, CO.
 
-- :hammer_and_wrench:Building and designing functional, user-friendly websites.
+- :hammer_and_wrench: Building and designing functional, user-friendly websites.
 
-- :paperclip:Resourceful problem-solver, excited to learn new technologies.
-
-
-
-
+- :paperclip: Resourceful problem-solver, excited to learn new technologies.
 
 ### :toolbox: Languages and Tools :
 <div>
@@ -44,18 +40,14 @@ Hi there. :wave:
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agmorrow&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### :chart_with_upwards_trend: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agmorrow&theme=dark)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agmorrow&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-<!---
-agmorrow/agmorrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
