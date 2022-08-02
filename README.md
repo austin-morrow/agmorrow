@@ -1,17 +1,22 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="100"/>
-</div>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/agmorrow/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://austinmorrow.me/">
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/agmorrow_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
+
+<h1>
+Hi there. :wave:
+</h1>
 </div>
 
 ### About Me:
@@ -39,6 +44,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
+
+---
+
+### :chart_with_upwards_trend: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agmorrow&theme=dark)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agmorrow&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 agmorrow/agmorrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
