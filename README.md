@@ -21,7 +21,7 @@ Hi there. :wave:
 
 ### About Me:
 
-- :computer: I am a Front end Web Developer from Denver, CO.
+- :computer: I am a Full Stack Web Developer from Denver, CO.
 
 - :hammer_and_wrench: Building and designing functional, user-friendly websites.
 
