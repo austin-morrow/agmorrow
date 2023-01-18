@@ -45,10 +45,6 @@ Hi there. :wave:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agmorrow&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### :chart_with_upwards_trend: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agmorrow&theme=dark)](https://git.io/streak-stats) <br>
 
 
 
